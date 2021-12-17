@@ -1,0 +1,1042 @@
+﻿非典型肺炎;;;;||;;;; Disease
+艾滋病;;;;||;;;; disease
+天花;;;;||;;;; disease
+悉尼;;;;||;;;; Australian place
+朊毒体;;;;||;;;; disease
+葛洪;;;;||;;;; Taoist
+伊拉克;;;;||;;;; country
+沙特阿拉伯;;;;||;;;; country
+湘西土家族苗族自治州;;;;||;;;; CnCity 
+世界艾滋病日;;;;||;;;; holiday
+克雅二氏病;;;;||;;;;Disease
+乒乓球;;;;||;;;; spor
+学习障碍;;;;||;;;;Disease
+过敏性鼻炎;;;;||;;;; medical condition (new)
+阿莫西林;;;;||;;;; drug
+流行性感冒;;;;||;;;; medical condition (new)
+失明;;;;||;;;; disease
+葛兰素史克;;;;||;;;;Company 
+避孕套;;;;||;;;; Birth control
+韭菜;;;;||;;;; Chinese
+潘光旦;;;;||;;;; person
+肝癌;;;;||;;;; medical condition (new)
+手足口病;;;;||;;;;Disease
+延髓;;;;||;;;; Brain
+近视;;;;||;;;; medical condition (new)
+光子;;;;||;;;; Particle
+呼吸系统;;;;||;;;; anatomy
+慕尼黑;;;;||;;;; city
+霍乱;;;;||;;;; disease
+咖啡;;;;||;;;; beverage
+血友病;;;;||;;;; disease
+房水;;;;||;;;; Anatomy 
+青光眼;;;;||;;;; medical condition (new)
+膀胱;;;;||;;;; Anatomy
+咖啡因;;;;||;;;; drug
+多巴胺;;;;||;;;; neurotransmitter
+狂犬病;;;;||;;;; medical condition (new)
+风水;;;;||;;;; Chinese
+梅毒;;;;||;;;; medical condition (new)
+糖尿病;;;;||;;;; medical condition (new)
+高血压;;;;||;;;; medical condition (new)
+酗酒;;;;||;;;; disease
+珍珠;;;;||;;;; mineral
+蓬莱米;;;;||;;;; cultivar 
+自杀;;;;||;;;; medical condition (new)
+自杀;;;;||;;;; medical condition (new)
+白喉;;;;||;;;;Disease
+性偏离;;;;||;;;; medical condition (new)
+心脏;;;;||;;;; anatomy
+地中海贫血;;;;||;;;; disease
+墨西哥城;;;;||;;;; settlement
+白大衣高血压;;;;||;;;; Disease 
+盲文;;;;||;;;; Writing system
+鼻息肉;;;;||;;;; medical condition
+石膏;;;;||;;;; mineral
+牙痛;;;;||;;;; medical condition 
+显微镜;;;;||;;;; laboratory equipment
+血小板;;;;||;;;; cell
+坏血病;;;;||;;;;Disease
+轮状病毒;;;;||;;;; disease
+肺炎;;;;||;;;; medical condition (new)
+肺炎;;;;||;;;; medical condition (new)
+阴蒂;;;;||;;;; anatomy
+阴蒂头;;;;||;;;; Anatomy 
+阴蒂包皮;;;;||;;;; Anatomy 
+女性生殖系统;;;;||;;;; anatomy
+肝脏;;;;||;;;; anatomy
+水俣病;;;;||;;;; disease 
+医和;;;;||;;;; Biography
+电击伤;;;;||;;;; disease
+心室;;;;||;;;; anatomy
+幽门螺杆菌;;;;||;;;; disease
+胃炎;;;;||;;;; medical condition (new)
+阎海文;;;;||;;;; Military Person
+骨骼;;;;||;;;; anatomy
+加德士;;;;||;;;; Company 
+性教育;;;;||;;;; medical intervention
+牙医学;;;;||;;;; interventions
+牙医学;;;;||;;;; interventions
+车祸;;;;||;;;; disease
+更年期;;;;||;;;; medical condition (new)
+血液;;;;||;;;; anatomy
+指甲;;;;||;;;; anatomy
+天地通;;;;||;;;; company  
+口蹄疫;;;;||;;;;Disease 
+CIH病毒;;;;||;;;; computer virus
+精子;;;;||;;;; anatomy
+口吃;;;;||;;;;Disease
+中风;;;;||;;;; medical condition (new)
+瘦蛋白;;;;||;;;; protein family
+痱子;;;;||;;;; disease
+色盲;;;;||;;;; medical condition (new)
+浩园;;;;||;;;; cemetery
+嗅神经;;;;||;;;; Nerve 
+乳房;;;;||;;;; Anatomy 
+氯痤疮;;;;||;;;;Disease
+鞭毛;;;;||;;;; anatomy
+恙虫病;;;;||;;;; disease 
+发作性嗜睡病;;;;||;;;; medical condition (new)
+乙型肝炎;;;;||;;;; medical condition (new)
+琥珀;;;;||;;;; mineral
+牙周炎;;;;||;;;;Disease
+便秘;;;;||;;;; medical condition (new)
+卵巢;;;;||;;;; anatomy
+瘀斑;;;;||;;;;Disease
+鼻咽癌;;;;||;;;;Disease
+乳腺;;;;||;;;; anatomy
+尿布疹;;;;||;;;; disease 
+心肌梗死;;;;||;;;;Disease
+心肌梗死;;;;||;;;;Disease
+美国手语;;;;||;;;; Language
+昏厥;;;;||;;;; medical condition (new)
+下背痛;;;;||;;;; medical condition (new)
+失眠;;;;||;;;; medical condition (new)
+水中毒;;;;||;;;; Disease
+前列腺炎;;;;||;;;; disease
+前列腺癌;;;;||;;;; medical condition (new)
+麻醉;;;;||;;;; medical intervention
+滑石;;;;||;;;; mineral
+菠萝包;;;;||;;;; prepared food
+核磁共振成像;;;;||;;;; diagnostic
+哮喘;;;;||;;;; medical condition (new)
+气管切开术;;;;||;;;; medical intervention 
+窒息;;;;||;;;; medical condition (new)
+细胞器;;;;||;;;; anatomy
+角膜;;;;||;;;; anatomy
+散光;;;;||;;;; disease
+老花;;;;||;;;; medical condition (new)
+囊肿性纤维化;;;;||;;;; medical condition
+苯丙胺;;;;||;;;; drug
+眼睑痉挛;;;;||;;;; Disease 
+杏仁核;;;;||;;;; Brain
+前庭耳蜗神经;;;;||;;;; Nerve 
+拉米夫定;;;;||;;;; Drug
+沾黏性肩关节囊炎;;;;||;;;; medical condition (new)
+精氨酸酶;;;;||;;;; protein family
+胭脂红;;;;||;;;; color
+妊娠;;;;||;;;; disease
+苏民峰;;;;||;;;; person
+麦玲玲;;;;||;;;; person
+包茎;;;;||;;;; medical condition (new)
+内视镜;;;;||;;;; medical intervention 
+方振武;;;;||;;;;Person
+性别不安;;;;||;;;; medical condition (new)
+包皮环切术;;;;||;;;; interventions
+异位妊娠;;;;||;;;; medical condition
+汪猷;;;;||;;;;Person
+汪猷;;;;||;;;;Person
+乳癌;;;;||;;;;Disease
+乳癌;;;;||;;;;Disease
+高志航;;;;||;;;; Military Person
+血尿;;;;||;;;; disease
+爱尔兰皇家外科医学院;;;;||;;;; University
+淋巴瘤;;;;||;;;;Disease 
+玛瑙;;;;||;;;; mineral
+胎盘;;;;||;;;; embryology
+象皮病;;;;||;;;; disease
+肝硬化;;;;||;;;; medical condition (new)
+王文怡;;;;||;;;; Biography
+银屑病;;;;||;;;;Disease
+流鼻血;;;;||;;;; Disease 
+心肌;;;;||;;;; anatomy
+心包;;;;||;;;; Anatomy 
+空肠;;;;||;;;; Anatomy 
+地西泮;;;;||;;;; drug
+百日咳;;;;||;;;;Disease
+鼻窦炎;;;;||;;;; medical condition (new)
+萧山令;;;;||;;;; Biography
+阴道穹;;;;||;;;; Anatomy
+食道;;;;||;;;; Anatomy
+呼吸道;;;;||;;;; anatomy
+中府穴;;;;||;;;; acupoint
+肝豆状核变性;;;;||;;;;Disease
+阚维雍;;;;||;;;; Military Person
+额叶;;;;||;;;; brain
+恋物;;;;||;;;; medical condition (new)
+肱骨;;;;||;;;; bone
+斯基恩氏腺;;;;||;;;; Anatomy
+头痛;;;;||;;;; Symptom
+鼻炎;;;;||;;;; medical condition (new)
+子宫颈癌;;;;||;;;; medical condition (new)
+林巧稚;;;;||;;;;Person
+男性生殖系统;;;;||;;;; anatomy
+灼伤;;;;||;;;; medical condition (new)
+鸡眼;;;;||;;;; Disease
+股骨;;;;||;;;; Bone
+牙医;;;;||;;;; occupation
+肝炎;;;;||;;;; medical condition (new)
+小柴胡汤;;;;||;;;; Prescription of TCM 
+内分泌系统;;;;||;;;; anatomy
+营养不良;;;;||;;;; disease
+尼古丁;;;;||;;;; drug
+完全自杀手册;;;;||;;;; book
+过敏性休克;;;;||;;;; disease
+麻疹;;;;||;;;; medical condition (new)
+肾小体;;;;||;;;; Anatomy 
+肾单位;;;;||;;;; anatomy
+米氏线;;;;||;;;; Disease
+肺尘病;;;;||;;;;Disease 
+死产;;;;||;;;; medical condition (new)
+唇颚裂;;;;||;;;; disease
+智能障碍;;;;||;;;;Disease
+会阴;;;;||;;;; anatomy
+中耳炎;;;;||;;;; disease
+雪佛龙;;;;||;;;;Company
+食道癌;;;;||;;;; medical condition (new)
+食道癌;;;;||;;;; medical condition (new)
+大肠癌;;;;||;;;; medical condition (new)
+交感性眼炎;;;;||;;;; disease 
+变性;;;;||;;;; medical condition 
+可卡因;;;;||;;;; drug
+类风湿性关节炎;;;;||;;;; disease
+斑疹伤寒;;;;||;;;;Disease
+氟西汀;;;;||;;;; drug
+镰刀型红血球疾病;;;;||;;;;Disease
+心瓣;;;;||;;;; anatomy
+弱视;;;;||;;;; medical condition (new)
+肠胃炎;;;;||;;;; medical condition (new)
+再生不良性贫血;;;;||;;;; medical condition
+汞中毒;;;;||;;;;Disease
+高压氧治疗;;;;||;;;; medical intervention
+骨折;;;;||;;;;Disease
+头孢菌素;;;;||;;;; drug class
+阿托伐他汀;;;;||;;;; drug
+奥比斯;;;;||;;;; non-profit
+低血压;;;;||;;;; disease
+发绀;;;;||;;;; symptom
+爱迪生氏病;;;;||;;;; disease
+心血管疾病;;;;||;;;; medical condition (new)
+心血管疾病;;;;||;;;; medical condition (new)
+血管收缩;;;;||;;;; anatomy
+螺旋藻;;;;||;;;; cultivar
+高志鹏;;;;||;;;; AM
+徐中雄;;;;||;;;; AM
+沙眼;;;;||;;;;Disease 
+淋巴结;;;;||;;;; Anatomy 
+东宝;;;;||;;;; Company 
+詹姆士·W·布拉克;;;;||;;;; Scientist
+炭疽病;;;;||;;;; medical condition (new)
+核膜;;;;||;;;; anatomy
+心包炎;;;;||;;;;Disease
+大血管转位;;;;||;;;;Disease
+山田风太郎;;;;||;;;; writer
+志贺杆菌病;;;;||;;;;Disease 
+黑素细胞;;;;||;;;; anatomy
+抽搐;;;;||;;;; symptom
+白花油;;;;||;;;; company
+不二家;;;;||;;;; Company
+沈自尹;;;;||;;;;Person
+沈自尹;;;;||;;;;Person
+少商穴;;;;||;;;; acupoint
+鱼际穴;;;;||;;;; acupoint
+医缓;;;;||;;;; Biography
+郑龙水;;;;||;;;;officeholder
+高明见;;;;||;;;;officeholder
+鼻塞;;;;||;;;; disease
+腮腺炎;;;;||;;;; disease
+韦恩·艾拉德;;;;||;;;; Senator 
+方解石;;;;||;;;; mineral
+革囊胃;;;;||;;;; medical condition 
+子宫切除术;;;;||;;;; medical intervention 
+体外人工受精;;;;||;;;; interventions 
+慢性阻塞性肺病;;;;||;;;; medical condition (new)
+精索静脉曲张;;;;||;;;; disease
+脂肪瘤;;;;||;;;; disease
+浮肾;;;;||;;;; medical condition
+远端转移;;;;||;;;;Disease
+间皮瘤;;;;||;;;; disease
+恶病体质;;;;||;;;; symptom 
+上皮组织;;;;||;;;; Anatomy
+咽喉;;;;||;;;; anatomy
+约翰尼斯·菲比格;;;;||;;;; scientist
+眉毛;;;;||;;;; Anatomy 
+卵巢癌;;;;||;;;; medical condition (new)
+硝石;;;;||;;;; mineral
+镉中毒;;;;||;;;; disease 
+爱罗斯·阿兹海默;;;;||;;;; Person
+亚历山大·麦昆;;;;||;;;; Fashion Designer
+九味羌活汤;;;;||;;;; Prescription of TCM 
+伊藤一长;;;;||;;;; Officeholder
+佝偻病;;;;||;;;; Disease
+于靖;;;;||;;;;officeholder
+施今墨;;;;||;;;; Officeholder
+中枢神经系统;;;;||;;;; anatomy
+中毒;;;;||;;;; medical condition (new)
+淋病;;;;||;;;; medical condition (new)
+黑色素瘤;;;;||;;;; disease
+脊髓;;;;||;;;; anatomy
+气胸;;;;||;;;; medical condition (new)
+碘缺乏病;;;;||;;;;Disease
+恩他卡朋;;;;||;;;; Drug
+骨盆;;;;||;;;; Bone 
+战壕热;;;;||;;;;Disease 
+平胸;;;;||;;;; disease
+桂枝汤;;;;||;;;; Prescription of TCM 
+麻黄汤;;;;||;;;; Prescription of TCM 
+听障奥林匹克运动会;;;;||;;;; Sporting Event Organization
+甲癣;;;;||;;;;Disease
+阴茎海绵体;;;;||;;;; Anatomy 
+雀斑;;;;||;;;; disease
+丙型肝炎;;;;||;;;; medical condition (new)
+戊型肝炎;;;;||;;;; medical condition (new)
+三角肌;;;;||;;;; Muscle 
+潮热;;;;||;;;; medical condition
+外展神经;;;;||;;;; Nerve 
+舌咽神经;;;;||;;;; Nerve 
+副神经;;;;||;;;; Nerve 
+理查·欧文;;;;||;;;; scientist
+韩医学;;;;||;;;; Korean name
+特发性间质性肺炎;;;;||;;;; disease 
+西咪替丁;;;;||;;;; drug
+胃癌;;;;||;;;; medical condition (new)
+胃癌;;;;||;;;; medical condition (new)
+肱二头肌;;;;||;;;; muscle
+眶上裂;;;;||;;;; Bone 
+腹泻;;;;||;;;; symptom
+升主动脉;;;;||;;;; artery
+乳晕;;;;||;;;; anatomy
+神经胶质细胞;;;;||;;;; anatomy
+偏头痛;;;;||;;;; medical condition (new)
+偏头痛;;;;||;;;; medical condition (new)
+李建军;;;;||;;;; scholar
+扁桃体炎;;;;||;;;; disease 
+蒙古斑;;;;||;;;;Disease
+口腔炎;;;;||;;;;Disease
+胃食道逆流;;;;||;;;; disease
+基底核;;;;||;;;; Brain
+鼻骨;;;;||;;;; Bone 
+明德国际医院;;;;||;;;; Hospital
+下鼻甲;;;;||;;;; bone
+心室中膈缺损;;;;||;;;; Disease
+腰椎;;;;||;;;; bone
+肩胛骨;;;;||;;;; Bone 
+瘦肉精;;;;||;;;; drug class
+蓖麻毒蛋白;;;;||;;;; nonhuman protein
+蓖麻毒蛋白;;;;||;;;; nonhuman protein
+蓖麻毒蛋白;;;;||;;;; nonhuman protein
+手舟骨;;;;||;;;; bone
+巴西石油;;;;||;;;; company
+第二水俣病;;;;||;;;; Disease
+乳头;;;;||;;;; anatomy
+肾虚;;;;||;;;; medical condition (new)
+贝果;;;;||;;;; prepared food
+夜惊;;;;||;;;; medical condition (new)
+1型糖尿病;;;;||;;;; medical condition (new)
+砷中毒;;;;||;;;; medical condition (new)
+蝇蛆病;;;;||;;;; Disease
+磷酸果糖激酶1;;;;||;;;; protein family
+耻骨;;;;||;;;; Bone
+亨利·格雷;;;;||;;;; scientist
+平滑肌;;;;||;;;; Anatomy
+胃泌素;;;;||;;;;gene}}
+胃泌素;;;;||;;;;gene}}
+凡士林;;;;||;;;; Company
+落叶型天疱疮;;;;||;;;;Disease
+冠状动脉疾病;;;;||;;;; medical condition (new)
+冠状动脉疾病;;;;||;;;; medical condition (new)
+波士顿儿童医院;;;;||;;;; hospital
+陈光复;;;;||;;;; officeholder
+陈光复;;;;||;;;; officeholder
+子宫肌瘤;;;;||;;;; medical condition (new)
+芒硝;;;;||;;;; mineral
+开运万事通;;;;||;;;; television
+冻伤;;;;||;;;; Disease
+卫星细胞;;;;||;;;; neuron
+消化不良;;;;||;;;; disease 
+潜艇三明治;;;;||;;;; Prepared Food
+桥粒;;;;||;;;; anatomy
+腺苷脱氨酶;;;;||;;;; protein family
+腺苷脱氨酶;;;;||;;;; protein family
+腺苷脱氨酶;;;;||;;;; protein family
+额窦;;;;||;;;; Anatomy 
+哈罗德·希普曼;;;;||;;;; criminal
+与光同行;;;;||;;;; animanga/Headerofja
+与光同行;;;;||;;;; animanga/Headerofja
+与光同行;;;;||;;;; animanga/Headerofja
+与光同行;;;;||;;;; animanga/Headerofja
+范妮·伊姆利;;;;||;;;; Biography
+胃肠道基质肿瘤;;;;||;;;; medical condition
+食物过敏;;;;||;;;;Disease
+食物过敏;;;;||;;;;Disease
+器官衰竭;;;;||;;;; disease
+咬甲癖;;;;||;;;; Disease
+颤抖;;;;||;;;; symptom
+申能股份;;;;||;;;;Company 
+国际手语;;;;||;;;; language
+铅中毒;;;;||;;;; medical condition (new)
+一氧化碳中毒;;;;||;;;; medical condition (new)
+鼻肌;;;;||;;;; Muscle 
+疼痛;;;;||;;;; symptom
+左心室;;;;||;;;; Anatomy
+肾上腺;;;;||;;;; Anatomy 
+神经衰弱;;;;||;;;;Disease
+幼年特发性关节炎;;;;||;;;; medical condition (new)
+舍曲林;;;;||;;;; drug
+林耀兴;;;;||;;;;officeholder
+2型糖尿病;;;;||;;;; medical condition (new)
+角质层;;;;||;;;; Anatomy 
+蔡文兴;;;;||;;;; Christian leader
+静脉注射;;;;||;;;; medical intervention
+侯斌;;;;||;;;; Paralympic
+阴市穴;;;;||;;;; acupoint
+商阳穴;;;;||;;;; acupoint
+二间穴;;;;||;;;; acupoint
+VirusTotal;;;;||;;;; Website
+厄斯特松德;;;;||;;;; Settlement
+复健医学;;;;||;;;; occupation
+肺栓塞;;;;||;;;; disease 
+外耳炎;;;;||;;;; medical condition (new)
+甲沟炎;;;;||;;;;Disease 
+异位性皮肤炎;;;;||;;;; medical condition
+恋爱占卜师;;;;||;;;; animanga/Headerofja
+恋爱占卜师;;;;||;;;; animanga/Headerofja
+恋爱占卜师;;;;||;;;; animanga/Headerofja
+恋爱占卜师;;;;||;;;; animanga/Headerofja
+恋爱占卜师;;;;||;;;; animanga/Headerofja
+难产;;;;||;;;;Disease
+风疹;;;;||;;;;Disease
+松果体;;;;||;;;; Anatomy
+拔毛癖;;;;||;;;; medical condition (new)
+狼牙;;;;||;;;; Film
+红丝带;;;;||;;;; Non-profit
+腹痛;;;;||;;;; symptom 
+消化道出血;;;;||;;;; medical condition
+太阳穴;;;;||;;;; anatomy
+恰加斯病;;;;||;;;; disease
+于康震;;;;||;;;;Person
+多指畸形;;;;||;;;;Disease
+脂肪肝;;;;||;;;;Disease
+夏季热;;;;||;;;; Single 
+中山大学附属第五医院;;;;||;;;; hospital
+谵妄;;;;||;;;; medical condition
+霰粒肿;;;;||;;;;Disease
+羊水栓塞;;;;||;;;;Disease
+白蛋白;;;;||;;;; protein family
+白质;;;;||;;;; Anatomy 
+理中丸;;;;||;;;; Prescription of TCM 
+子宫乏力;;;;||;;;; Disease
+马偕医学院;;;;||;;;; University
+引产;;;;||;;;; medical intervention 
+Gateway;;;;||;;;; company
+疲劳;;;;||;;;; symptom
+简美妍;;;;||;;;; Korean name
+原位癌;;;;||;;;; medical condition (new)
+幻听;;;;||;;;; disease
+脂溢性皮炎;;;;||;;;;Disease
+鼠疫;;;;||;;;;Disease 
+腺鼠疫;;;;||;;;;Disease
+里急后重;;;;||;;;; symptom
+横膈膜;;;;||;;;; Anatomy 
+阴道痉挛;;;;||;;;;Disease 
+霍梅尼陵;;;;||;;;; religious building
+饿死;;;;||;;;; Disease
+多发性骨髓瘤;;;;||;;;; disease
+O型腿;;;;||;;;; disease 
+猫抓病;;;;||;;;;Disease 
+华盖散;;;;||;;;; Prescription of TCM 
+葛根汤;;;;||;;;; Prescription of TCM 
+小承气汤;;;;||;;;; Prescription of TCM  
+通幽汤;;;;||;;;; Prescription of TCM 
+黏膜;;;;||;;;; anatomy
+哌甲酯;;;;||;;;; drug
+鸡皮疙瘩;;;;||;;;; symptom
+情感障碍;;;;||;;;; medical condition
+情感障碍;;;;||;;;; medical condition
+珠蛋白;;;;||;;;; protein family
+珠蛋白;;;;||;;;; protein family
+菊池病;;;;||;;;;Disease 
+巴德公司;;;;||;;;; NRHP
+冠状沟;;;;||;;;; anatomy
+囊胚;;;;||;;;; embryology
+利什曼病;;;;||;;;;Disease
+移植排斥;;;;||;;;; medical condition
+皮克氏病;;;;||;;;;Disease 
+天宝·葛兰汀;;;;||;;;; scientist
+前臂;;;;||;;;; anatomy
+病毒性肺炎;;;;||;;;; Disease
+胆癌;;;;||;;;;Disease 
+晏福生;;;;||;;;;officeholder
+孕吐;;;;||;;;; disease 
+泰克;;;;||;;;; company
+王江民;;;;||;;;;Person
+红蓝丝带;;;;||;;;; Non-profit
+流行性脑炎;;;;||;;;; disease 
+松果腺细胞;;;;||;;;; anatomy
+汉他病毒;;;;||;;;; disease
+泰德·邦迪;;;;||;;;; Serial Killer
+鼓膜;;;;||;;;; anatomy
+脱臼;;;;||;;;;Disease
+吡嗪酰胺;;;;||;;;; Drug
+马鼻疽;;;;||;;;; disease 
+大便失禁;;;;||;;;; symptom
+痕量胺;;;;||;;;; drug class
+急性淋巴性白血病;;;;||;;;; disease 
+脓尿;;;;||;;;;Disease 
+尿道炎;;;;||;;;; disease
+子痫;;;;||;;;; disease
+人工泪液;;;;||;;;; medical intervention
+丹毒;;;;||;;;;Disease
+白丁;;;;||;;;; Korean name
+西尼罗河热;;;;||;;;; medical condition (new)
+皮肤炎;;;;||;;;;Disease 
+骨髓移植;;;;||;;;; interventions
+海洋天堂;;;;||;;;; Film
+皮肤癌;;;;||;;;; disease
+头部外伤;;;;||;;;; Disease
+桥脑;;;;||;;;; brain
+血管炎;;;;||;;;; disease 
+止嗽散;;;;||;;;; Prescription of TCM 
+股疝;;;;||;;;; Disease 
+伤口;;;;||;;;; disease
+杨天命;;;;||;;;; person
+志贺洁;;;;||;;;; person
+口角炎;;;;||;;;;Disease 
+肾功能衰竭;;;;||;;;; Disease 
+孔最穴;;;;||;;;; acupoint
+经渠穴;;;;||;;;; acupoint
+太渊穴;;;;||;;;; acupoint
+三间穴;;;;||;;;; acupoint
+曲池穴;;;;||;;;; acupoint
+偏历穴;;;;||;;;; acupoint
+温溜穴;;;;||;;;; acupoint
+下廉穴;;;;||;;;; acupoint
+上廉穴;;;;||;;;; acupoint
+手三里穴;;;;||;;;; acupoint
+肘髎穴;;;;||;;;; acupoint
+手五里穴;;;;||;;;; acupoint
+臂臑穴;;;;||;;;; acupoint
+肩髃穴;;;;||;;;; acupoint
+巨骨穴;;;;||;;;; acupoint
+天鼎穴;;;;||;;;; acupoint
+扶突穴;;;;||;;;; acupoint
+口禾髎穴;;;;||;;;; acupoint
+迎香穴;;;;||;;;; acupoint
+承泣穴;;;;||;;;; acupoint
+四白穴;;;;||;;;; acupoint
+巨髎穴;;;;||;;;; acupoint
+地仓穴;;;;||;;;; acupoint
+大迎穴;;;;||;;;; acupoint
+颊车穴;;;;||;;;; acupoint
+下关穴;;;;||;;;; acupoint
+头维穴;;;;||;;;; acupoint
+心律不整;;;;||;;;; medical condition (new)
+心律不整;;;;||;;;; medical condition (new)
+人迎穴;;;;||;;;; acupoint
+水突穴;;;;||;;;; acupoint
+气舍穴;;;;||;;;; acupoint
+缺盆穴;;;;||;;;; acupoint
+气户穴;;;;||;;;; acupoint
+屋翳穴;;;;||;;;; acupoint
+膺窗穴;;;;||;;;; acupoint
+乳中穴;;;;||;;;; acupoint
+乳根穴;;;;||;;;; acupoint
+不容穴;;;;||;;;; acupoint
+承满穴;;;;||;;;; acupoint
+梁门穴;;;;||;;;; acupoint
+关门穴;;;;||;;;; acupoint
+太乙穴;;;;||;;;; acupoint
+滑肉门穴;;;;||;;;; acupoint
+天枢穴;;;;||;;;; acupoint
+外陵穴;;;;||;;;; acupoint
+大巨穴;;;;||;;;; acupoint
+水道穴;;;;||;;;; acupoint
+归来穴;;;;||;;;; acupoint
+髀关穴;;;;||;;;; acupoint
+伏兔穴;;;;||;;;; acupoint
+虹膜炎;;;;||;;;; disease 
+光动力疗法;;;;||;;;; interventions 
+酮酸中毒;;;;||;;;; Disease
+梁丘穴;;;;||;;;; acupoint
+犊鼻穴;;;;||;;;; acupoint
+足三里穴;;;;||;;;; acupoint
+上巨虚穴;;;;||;;;; acupoint
+条口穴;;;;||;;;; acupoint
+下巨虚穴;;;;||;;;; acupoint
+丰隆穴;;;;||;;;; acupoint
+陷谷穴;;;;||;;;; acupoint
+内庭穴;;;;||;;;; acupoint
+厉兑穴;;;;||;;;; acupoint
+花风;;;;||;;;; Single
+药物过量;;;;||;;;; disease 
+动脉导管;;;;||;;;; Artery 
+腹膜透析;;;;||;;;; interventions 
+霍奇金淋巴瘤;;;;||;;;; disease
+静脉曲张;;;;||;;;; disease
+夹板;;;;||;;;; medical condition
+上原美优;;;;||;;;; person
+汗疱疹;;;;||;;;; disease 
+2011年台湾塑化剂事件;;;;||;;;; Historical Event
+杉石;;;;||;;;; mineral
+WhatsApp;;;;||;;;; software
+WhatsApp;;;;||;;;; software
+2011年O104:H4型大肠杆菌疫情;;;;||;;;; news event
+酒精中毒;;;;||;;;; disease
+皮质类固醇;;;;||;;;; drug class
+支气管;;;;||;;;; Anatomy
+Google+;;;;||;;;; website
+犁鼻器;;;;||;;;; Anatomy 
+真菌病;;;;||;;;; disease 
+隐球菌病;;;;||;;;; disease 
+中国手语;;;;||;;;; Language
+兔热病;;;;||;;;; disease 
+单层扁平上皮;;;;||;;;; Anatomy 
+红髓;;;;||;;;; Anatomy 
+副甲状腺;;;;||;;;; Anatomy
+单层立方上皮;;;;||;;;; Anatomy 
+腹水;;;;||;;;; disease
+葡萄胎;;;;||;;;; disease
+流行性腮腺炎;;;;||;;;; medical condition
+腺病毒感染;;;;||;;;; Disease
+阿米巴痢疾;;;;||;;;; Disease
+布鲁氏菌病;;;;||;;;; Disease
+便血;;;;||;;;; medical condition 
+角膜炎;;;;||;;;;Disease
+钩端螺旋体病;;;;||;;;; disease
+鹦鹉热;;;;||;;;;Disease
+延迟性过敏反应;;;;||;;;; Disease 
+芽生菌病;;;;||;;;; disease 
+背痛;;;;||;;;; Symptom
+小动脉;;;;||;;;; Artery 
+血管瘤;;;;||;;;;Disease 
+胸膜;;;;||;;;; anatomy
+印度石油公司;;;;||;;;; company
+肾小球;;;;||;;;; Anatomy 
+热病;;;;||;;;; disease 
+热病;;;;||;;;; disease 
+肛裂;;;;||;;;; disease
+免疫缺陷;;;;||;;;;Disease 
+免疫抑制;;;;||;;;; interventions 
+足底筋膜炎;;;;||;;;; medical condition (new)
+畸胎瘤;;;;||;;;; disease
+杨育民;;;;||;;;; Person
+非霍奇金氏淋巴瘤;;;;||;;;; medical condition (new)
+寒战;;;;||;;;; Film
+缺氧;;;;||;;;; symptom
+徐福记;;;;||;;;;Company
+血液灌流;;;;||;;;; interventions 
+前列腺小囊;;;;||;;;; Anatomy 
+前房积血;;;;||;;;; disease 
+CHARGE联合畸形;;;;||;;;; disease 
+慢性肉芽肿病;;;;||;;;; disease
+沈善炯;;;;||;;;; person
+小肠癌;;;;||;;;;Disease 
+朱既明;;;;||;;;; person
+蜂窝组织炎;;;;||;;;; Disease 
+肌束膜;;;;||;;;; Anatomy
+Big;;;;||;;;; Television
+红斑;;;;||;;;; medical condition
+嗜酸性粒细胞;;;;||;;;; cell
+抗雄激素;;;;||;;;; drug class
+结肠炎;;;;||;;;; disease 
+肾病变;;;;||;;;; medical condition
+层状鱼鳞癣;;;;||;;;; Disease 
+大风水;;;;||;;;; Television
+阴道口;;;;||;;;; Anatomy 
+角层下脓疱性皮肤病;;;;||;;;; Disease
+跟腱;;;;||;;;; Anatomy 
+心内膜垫;;;;||;;;; Embryology 
+晚幼粒细胞;;;;||;;;; cell
+皮肤;;;;||;;;; Anatomy
+皮肤;;;;||;;;; Anatomy
+弗隆;;;;||;;;; French commune
+法夏;;;;||;;;; Italian comune
+爱在阳光下;;;;||;;;; Film
+卡瓦;;;;||;;;; settlement
+Tay-sachs;;;;||;;;; disease
+宿醉;;;;||;;;; disease
+酒糟鼻;;;;||;;;; disease
+卡洛;;;;||;;;; settlement
+胱天蛋白酶;;;;||;;;; protein family
+氟斑牙;;;;||;;;; Disease
+骨外科;;;;||;;;; interventions 
+神经内分泌肿瘤;;;;||;;;; disease
+醋酸甲羟孕酮;;;;||;;;; Birth control
+胸腔;;;;||;;;; anatomy
+扁平足;;;;||;;;; medical condition (new)
+杨慧英;;;;||;;;;Person
+胰腺炎;;;;||;;;; disease
+心痛;;;;||;;;; album &lt;!-- See Wikipedia:WikiProjectAlbums --&gt;
+路路通;;;;||;;;; electronic payment
+关元穴;;;;||;;;; acupoint
+恍惚;;;;||;;;; film
+截肢;;;;||;;;; disease
+小头畸形;;;;||;;;; disease
+肾上腺皮质;;;;||;;;; Anatomy 
+梯瓦;;;;||;;;; company
+超级工厂;;;;||;;;; television
+精神科医师;;;;||;;;; Occupation
+视力测试;;;;||;;;; diagnostic
+2013年台湾食品安全问题事件;;;;||;;;; Historical Event
+小支气管;;;;||;;;; Anatomy 
+肱骨外上髁炎;;;;||;;;; disease
+尿失禁;;;;||;;;; disease
+上腔静脉;;;;||;;;;
+血栓形成;;;;||;;;; medical condition
+骨髓增殖性疾病;;;;||;;;; disease 
+胡慎之;;;;||;;;; Person
+西王食品;;;;||;;;; Company 
+肾炎;;;;||;;;; disease 
+肾病;;;;||;;;; disease
+囊肿;;;;||;;;; Disease 
+哮吼;;;;||;;;; medical condition (new)
+尤文氏肉瘤;;;;||;;;; disease 
+膝外翻;;;;||;;;; medical condition
+棘球蚴病;;;;||;;;; disease
+黑眼圈;;;;||;;;; medical condition (new)
+骨膜炎;;;;||;;;; disease
+肱肌;;;;||;;;; muscle
+乳房外柏哲德氏病;;;;||;;;; disease
+脊柱裂;;;;||;;;; medical condition (new)
+惊厥;;;;||;;;; disease
+入球小动脉;;;;||;;;; anatomy
+大明劫;;;;||;;;; film
+依赖型人格障碍;;;;||;;;; disease
+胸膜炎;;;;||;;;; medical condition (new)
+向近敏;;;;||;;;; person
+食管憩室;;;;||;;;; Disease 
+头颈癌;;;;||;;;; medical condition (new)
+癌肉瘤;;;;||;;;;Disease
+百雀羚;;;;||;;;; Company 
+喉癌;;;;||;;;; disease
+苗勒管混合瘤;;;;||;;;; disease
+第二心音;;;;||;;;;
+囊腺癌;;;;||;;;; disease
+囊腺瘤;;;;||;;;;Disease 
+粘液性囊腺瘤;;;;||;;;; Disease
+淋巴管;;;;||;;;; anatomy
+喘鸣;;;;||;;;; symptom 
+平滑肌肉瘤;;;;||;;;; disease
+胚胎性癌;;;;||;;;; Disease 
+耳咽管;;;;||;;;; anatomy
+阴茎异常勃起;;;;||;;;; disease
+龟头炎;;;;||;;;; disease
+逆行射精;;;;||;;;; Disease
+阴茎折断;;;;||;;;; Disease
+前体B细胞淋巴细胞白血病;;;;||;;;;Disease 
+爱尔康;;;;||;;;; Company 
+张力亢进;;;;||;;;; disease 
+心室颤动;;;;||;;;; medical condition (new)
+卵巢白体;;;;||;;;; Anatomy 
+鲍氏囊;;;;||;;;; Anatomy
+酪氨酸酶;;;;||;;;;gene}}
+萎缩;;;;||;;;; medical condition 
+前庭球;;;;||;;;; Anatomy
+高原脑水肿;;;;||;;;; disease 
+表皮样囊肿;;;;||;;;; medical condition
+膜性肾小球肾炎;;;;||;;;; disease 
+系膜增生性肾小球肾炎;;;;||;;;; disease 
+乳房下垂;;;;||;;;; disease
+毛细血管内增生性肾小球肾炎;;;;||;;;; Disease
+膜增生性肾小球肾炎;;;;||;;;; disease 
+皮下气肿;;;;||;;;; disease 
+卵巢炎;;;;||;;;; disease 
+卡波西氏肉瘤;;;;||;;;; disease 
+性交疼痛;;;;||;;;; disease 
+鼻腔;;;;||;;;; Anatomy 
+男性乳癌;;;;||;;;; disease
+心搏停止;;;;||;;;; medical condition (new)
+心搏停止;;;;||;;;; medical condition (new)
+糖尿病肾病;;;;||;;;; disease 
+足细胞;;;;||;;;; anatomy
+狼疮性肾炎;;;;||;;;; disease 
+显微镜下多血管炎;;;;||;;;; disease 
+滤泡旁细胞;;;;||;;;; anatomy
+肾小管性酸中毒;;;;||;;;; disease 
+近端肾小管酸中毒;;;;||;;;; disease
+肾乳头坏死;;;;||;;;; disease 
+急性肾小管坏死;;;;||;;;; disease
+间质性肾炎;;;;||;;;; disease 
+镇痛剂肾病;;;;||;;;; disease
+输尿管炎;;;;||;;;; disease
+肾积脓;;;;||;;;;Disease 
+反流性肾病;;;;||;;;;Disease
+肾性骨病;;;;||;;;; disease 
+肾皮质坏死;;;;||;;;; disease
+高血压性肾病;;;;||;;;; disease 
+肾血管性高血压;;;;||;;;; disease
+输尿管囊肿;;;;||;;;; disease 
+心房扑动;;;;||;;;; medical condition
+膀胱输尿管返流;;;;||;;;; disease 
+拉萨热;;;;||;;;; medical condition (new)
+低血糖;;;;||;;;; Disease
+裘沛然;;;;||;;;; person
+病毒性出血热;;;;||;;;; disease
+食管裂孔疝;;;;||;;;; medical condition (new) 
+无脑畸形;;;;||;;;; disease
+鼻鼾;;;;||;;;; symptom 
+腹主动脉瘤;;;;||;;;; disease
+排卵期出血;;;;||;;;; symptom 
+手天使;;;;||;;;; Non-profit
+头晕;;;;||;;;; Symptom
+氟班色林;;;;||;;;; drug
+急性支气管炎;;;;||;;;; disease
+肾癌;;;;||;;;; disease
+子宫峡部;;;;||;;;; anatomy
+输卵管峡;;;;||;;;; anatomy
+口腔癌;;;;||;;;; disease
+官惠民;;;;||;;;; military person
+抗菌肽;;;;||;;;; protein family
+肺癌;;;;||;;;; medical condition (new)
+芬太尼;;;;||;;;; drug
+坐骨神经痛;;;;||;;;; symptom
+体节;;;;||;;;; embryology
+卵巢囊肿;;;;||;;;; medical condition (new)
+椎间孔;;;;||;;;; bone
+法莫替丁;;;;||;;;; drug
+桡神经;;;;||;;;; nerve
+上颌动脉;;;;||;;;; artery
+乳房疼痛;;;;||;;;; symptom
+脊髓损伤;;;;||;;;; disease
+玫瑰糠疹;;;;||;;;; disease
+痣;;;;||;;;; disease
+脊髓丘脑束;;;;||;;;; brain
+阴部神经;;;;||;;;; nerve
+先天性心脏病;;;;||;;;; disease 
+妊娠剧吐;;;;||;;;; disease 
+体重下降;;;;||;;;; medical condition
+吉林油田;;;;||;;;; oil field
+缺铁性贫血;;;;||;;;; disease
+人体使用手册;;;;||;;;; Book 
+脂肪肉瘤;;;;||;;;; disease
+雷·沃纳尔;;;;||;;;; person
+滑膜肉瘤;;;;||;;;; disease
+空气栓塞;;;;||;;;; disease
+角回;;;;||;;;; brain
+胆管癌;;;;||;;;; medical condition (new)
+非整倍体;;;;||;;;; disease
+Fossil;;;;||;;;; software
+腋窝;;;;||;;;; anatomy
+脊髓病变;;;;||;;;; disease
+火眼;;;;||;;;; company
+胃灼热;;;;||;;;; symptom
+主动脉瓣狭窄;;;;||;;;; disease 
+胸小肌;;;;||;;;; muscle
+锁胸筋膜;;;;||;;;; anatomy
+三叉神经痛;;;;||;;;; medical condition (new)
+听诊;;;;||;;;; interventions
+水源性荨麻疹;;;;||;;;; disease
+红斑性狼疮;;;;||;;;; medical condition
+二尖瓣闭锁不全;;;;||;;;; medical condition
+缺血;;;;||;;;; medical condition
+凝血酶原时间;;;;||;;;; interventions 
+植入性胎盘;;;;||;;;; medical condition 
+新加坡石油公司;;;;||;;;; company
+小淘气;;;;||;;;; comics character
+门脉高压;;;;||;;;; medical condition
+下直肌;;;;||;;;; muscle
+内直肌;;;;||;;;; muscle
+青箭;;;;||;;;; brand
+外直肌;;;;||;;;; muscle
+上斜肌;;;;||;;;; muscle
+外分泌腺;;;;||;;;; anatomy
+颈动脉体;;;;||;;;; anatomy
+筛板;;;;||;;;; bone
+三尖瓣;;;;||;;;; anatomy
+眼动脉;;;;||;;;; artery
+氰化物中毒;;;;||;;;; medical condition
+类癌;;;;||;;;; medical condition
+动脉瘤;;;;||;;;; disease
+史蔚馥;;;;||;;;; military person
+原发性硬化性胆管炎;;;;||;;;; medical condition 
+喉炎;;;;||;;;; medical condition (new)
+化石森林;;;;||;;;; film
+副伤寒;;;;||;;;; medical condition (new)
+腰椎穿刺;;;;||;;;; medical intervention
+亨利·希尔;;;;||;;;; person
+亨利·希尔;;;;||;;;; person
+禾髎穴;;;;||;;;; acupoint
+腺瘤;;;;||;;;; disease
+酸中毒;;;;||;;;; medical condition 
+肝衰竭;;;;||;;;; medical condition
+圆锥角膜;;;;||;;;; medical condition (new)
+甲状腺癌;;;;||;;;; medical condition (new)
+风湿病学;;;;||;;;; medical specialty
+风湿病学;;;;||;;;; medical specialty
+心肌炎;;;;||;;;; medical condition (new)
+慢性疼痛;;;;||;;;; symptom
+肥大;;;;||;;;; medical condition
+肝细胞;;;;||;;;; anatomy
+昏睡;;;;||;;;; disease
+骨骺;;;;||;;;; anatomy
+子宫内膜;;;;||;;;; anatomy
+食欲不振;;;;||;;;; symptom
+肛门癌;;;;||;;;; disease
+趾骨;;;;||;;;; bone
+贴布试验;;;;||;;;; medical intervention
+高热;;;;||;;;; symptom
+Petya;;;;||;;;; computer virus
+葱豉汤;;;;||;;;; Prescription of TCM 
+神术散;;;;||;;;; Prescription of TCM 
+人参败毒散;;;;||;;;; Prescription of TCM 
+瞳孔放大;;;;||;;;; symptom
+胰腺癌;;;;||;;;; medical condition (new)
+肝小叶;;;;||;;;; anatomy
+癫痫发作;;;;||;;;; medical condition (new)
+咽炎;;;;||;;;; medical condition (new)
+呼吸道感染;;;;||;;;; disease
+虚弱;;;;||;;;; symptom 
+胸痛;;;;||;;;; symptom
+颅内出血;;;;||;;;; medical condition (new)
+颅内出血;;;;||;;;; medical condition (new)
+应用宝;;;;||;;;; software
+应用宝;;;;||;;;; software
+ox software
+;;;;||;;;; software
+精神外科;;;;||;;;; interventions
+肌肉痛;;;;||;;;; symptom 
+口腔白斑;;;;||;;;; medical condition (new)
+烯醇化酶;;;;||;;;; protein family
+新生儿黄疸;;;;||;;;; medical condition (new)
+子宫镜检查;;;;||;;;; medical intervention 
+短效胰岛素;;;;||;;;; drug
+鼻漏;;;;||;;;; medical condition
+小肠细菌过度生长;;;;||;;;; medical condition
+肝细胞癌;;;;||;;;; medical condition (new)
+脑膜脑炎;;;;||;;;; medical condition
+小角软骨;;;;||;;;; anatomy
+杓状软骨;;;;||;;;; anatomy
+喉乳头状瘤;;;;||;;;; medical condition 
+毛孔性红糠疹;;;;||;;;; medical condition
+咀嚼肌;;;;||;;;; muscle
+喉腔;;;;||;;;; anatomy
+脑损伤;;;;||;;;; medical condition
+疖;;;;||;;;; medical condition
+桂枝加葛根汤;;;;||;;;; Prescription of TCM
+陈祖荣;;;;||;;;; AM
+呼吸衰竭;;;;||;;;; medical condition
+麻黄杏仁薏苡甘草汤;;;;||;;;; Prescription of TCM
+text xml:space="preserve">{{Infobox scientist
+;;;;||;;;; scientist
+下斜肌;;;;||;;;; muscle
+排尿疼痛;;;;||;;;; Symptom
+CD34;;;;||;;;; gene}}
+吸入性肺炎;;;;||;;;; medical condition (new)
+右束支传导阻滞;;;;||;;;; medical condition
+网状细胞;;;;||;;;; anatomy
+寰枢关节;;;;||;;;; anatomy
+会厌炎;;;;||;;;; medical condition (new)
+胆囊炎;;;;||;;;; medical condition (new)
+晒伤;;;;||;;;; medical condition (new)
+巴巴·万加;;;;||;;;; person
+李彩云;;;;||;;;; person
+脂肪便;;;;||;;;; medical condition 
+憩室炎;;;;||;;;; medical condition (new)
+肠扭转;;;;||;;;; medical condition (new)
+乳痂;;;;||;;;; disease
+丘疹;;;;||;;;; disease 
+破骨细胞;;;;||;;;; cell
+皮肌炎;;;;||;;;; medical condition (new)
+胎盘早期剥离;;;;||;;;; medical condition (new)
+王仲奇;;;;||;;;; scientist
+前置胎盘;;;;||;;;; medical condition (new)
+脑血管疾病;;;;||;;;; medical condition (new)
+肝病;;;;||;;;; medical condition (new) 
+腹部胀气;;;;||;;;; symptom
+胰岛B细胞;;;;||;;;; cell
+高血糖;;;;||;;;; medical condition (new)
+上海生物制品研究所;;;;||;;;; Company
+CD44;;;;||;;;;gene}}
+黎光荣;;;;||;;;; military person
+蔡伯励;;;;||;;;; person
+喉囊肿;;;;||;;;; medical condition (new)
+呼吸急促;;;;||;;;; symptom
+日光性荨麻疹;;;;||;;;; medical condition
+腹股沟肉芽肿;;;;||;;;; medical condition (new)
+詹姆斯·帕金森;;;;||;;;; person
+碘苷;;;;||;;;; drug
+气压性牙痛;;;;||;;;; medical condition 
+乳房纤维腺瘤;;;;||;;;; medical condition (new)
+长骨;;;;||;;;; bone
+不适;;;;||;;;; symptom
+椎管狭窄;;;;||;;;; medical condition (new)
+越婢汤;;;;||;;;; Prescription of TCM
+升麻葛根汤;;;;||;;;; Prescription of TCM
+急性无力脊髓炎;;;;||;;;; medical condition (new)
+旋毛虫病;;;;||;;;; medical condition (new)
+乳酸性酸中毒;;;;||;;;; medical condition (new)
+味觉障碍;;;;||;;;; symptom 
+蔡文华;;;;||;;;; basketball biography
+真菌性鼻窦炎;;;;||;;;; medical condition (new)
+漏斗胸;;;;||;;;; medical condition
+腱鞘囊肿;;;;||;;;; medical condition (new)
+心包填塞;;;;||;;;; medical condition (new)
+脓痂疹;;;;||;;;; medical condition (new)
+艰难梭菌感染;;;;||;;;; medical condition (new)
+甲状腺疾病;;;;||;;;; medical condition (new)
+京谷和幸;;;;||;;;; football biography
+去氧孕烯;;;;||;;;; drug
+链球菌快速检测;;;;||;;;; diagnostic
+马俊德;;;;||;;;; Officeholder
+全血;;;;||;;;; drug
+接触性皮炎;;;;||;;;; medical condition (new)
+鼻骨骨折;;;;||;;;; medical condition (new)
+肠梗阻;;;;||;;;; medical condition (new)
+幽门狭窄;;;;||;;;; medical condition (new)
+德尔坎测试;;;;||;;;; diagnostic
+椎骨;;;;||;;;; bone
+附肢骨骼;;;;||;;;; anatomy
+甲醇中毒;;;;||;;;; medical condition (new)
+克里米亚-刚果出血热;;;;||;;;; medical condition (new)
+基底细胞癌;;;;||;;;; medical condition (new)
+广源良;;;;||;;;; company
+肩难产;;;;||;;;; medical condition (new)
+锁骨骨折;;;;||;;;; medical condition (new) 
+氧疗;;;;||;;;; drug
+乳腺炎;;;;||;;;; medical condition (new)
+梨形鞭毛虫病;;;;||;;;; medical condition (new)
+迟发性运动不能;;;;||;;;; medical condition (new)
+耳道;;;;||;;;; anatomy
+病毒性疾病;;;;||;;;; medical condition (new)
+舌病;;;;||;;;; medical condition (new)
+膝关节脱位;;;;||;;;; medical condition (new)
+脐带绕颈;;;;||;;;; medical condition (new)
+异物堵塞呼吸道;;;;||;;;; medical condition (new)
+神经纤维瘤病;;;;||;;;; medical condition (new)
+神经母细胞瘤;;;;||;;;; medical condition (new)
+桑塔;;;;||;;;; video game
+甘草酸;;;;||;;;; drug
+头颅计算机断层成像术;;;;||;;;; diagnostic
+原发性高血压;;;;||;;;; medical condition
+心脏压力测试;;;;||;;;; medical intervention 
+替普瑞酮;;;;||;;;; drug
+外泌汗腺;;;;||;;;; anatomy
+肌腱病变;;;;||;;;; medical condition (new) 
+滑液囊;;;;||;;;; anatomy
+壶腹癌;;;;||;;;; medical condition (new)
+足弓;;;;||;;;; anatomy
+关节僵硬;;;;||;;;; medical condition (new)
+脊椎炎;;;;||;;;; medical condition (new)
+筋膜炎;;;;||;;;; medical condition (new)  
+滑膜炎;;;;||;;;; medical condition (new) 
+骨炎;;;;||;;;; medical condition (new) 
+骨软骨病;;;;||;;;; medical condition (new) 
+溃疡;;;;||;;;; medical condition (new)
+软骨炎;;;;||;;;; medical condition (new)
+施奠邦;;;;||;;;; person
+腹腔镜手术;;;;||;;;; medical intervention 
+深静脉;;;;||;;;; Vein
+锌缺乏;;;;||;;;; medical condition (new)
+免疫分析;;;;||;;;; medical intervention
+2019新型冠状病毒;;;;||;;;; event
+述情障碍;;;;||;;;; medical condition (new)
