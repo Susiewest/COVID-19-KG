@@ -1,0 +1,716 @@
+病毒的subclass:
+	噬菌体的subclass：
+		原噬菌体
+		Bacillus phage
+		大肠杆菌噬菌体
+		伤寒噬菌体
+		肌尾噬菌體科
+		Polyphage
+		Λ噬菌體
+		Bacteriophage P2
+		Enterobacteria phage P4
+	植物病毒的subclass：
+		花 叶 病 毒
+		洋葱黄矮病毒
+		马铃薯黄矮病毒
+		菸草鑲嵌病毒
+		类病毒
+		Beet necrotic yellow vein virus
+		Brome mosaic virus
+	类病毒的subclass：
+	博羅霍的subclass：
+	Neurotropic virus的subclass：
+		巨細胞病毒
+		狂犬病病毒
+	基因重組病毒的subclass：
+	Genetically modified virus的subclass：
+	核糖核酸病毒的subclass：
+		Double-stranded RNA viruses
+		冠状病毒
+		virus group V
+		Virus ARN monocatenario positivo
+		Tilapia tilapinevirus
+		Cilevirus
+		輪狀病毒
+	巨病毒的subclass：
+	Emergent virus的subclass：
+		Novel virus
+	去氧核糖核酸病毒的subclass：
+		核质巨DNA病毒
+		DNA逆轉錄病毒
+		dsDNA Virus
+		噬病毒体
+	complete virus particle的subclass：
+	动物病毒的subclass：
+		腺病毒
+		甲病毒属
+		沙粒病毒
+		bunyavirus
+		纤 丝 病 毒
+		黄病毒
+		肝病毒科
+		疱 疹
+		麗沙病毒屬
+		粘病毒
+		乳頭多瘤空泡病毒
+		細小病毒
+		微小核糖核酸病毒科
+		痘病毒科
+		呼腸孤病毒科
+		逆转录病毒
+		杆状病毒
+		水 疱 性 口 炎 病 毒
+	节肢动物媒介病毒的subclass：
+		沙粒
+		本雅病毒科
+		黃病毒科
+		呼肠孤病毒
+		炮彈病毒科
+		披膜病毒科
+		西尼羅河病毒
+		Toscana virus
+		Usutu virus
+		革登熱病毒
+	慢病毒的subclass：
+	肿瘤病毒的subclass：
+		wtv
+	运载体的subclass：
+		黏質體
+		酵母菌人工染色體
+
+细菌的subclass:
+	梨署伤病的subclass：
+		溃疡疫病
+	Polysaccharide encapsulated bacteria的subclass：
+	Asymmetric bacterium的subclass：
+	Carcinogenic bacteria的subclass：
+	革蘭氏陽性菌的subclass：
+		乳酸菌
+	革兰氏阴性菌的subclass：
+	大腸菌群的subclass：
+	病原细菌的subclass：
+	Psychrotrophic bacteria的subclass：
+	Atypical bacteria的subclass：
+	Aerobic anoxygenic photoheterotroph bacteria的subclass：
+	尼 龙 为 食 的 细 菌 ，的subclass：
+	Boterzuurbacterie的subclass：
+	Bioluminescent bacteria的subclass：
+	嗜酸生物的subclass：
+	菌体的subclass：
+	属肉芽肿荚膜杆菌的subclass：
+	双球菌的subclass：
+		肺炎鏈球菌
+		卡他莫拉菌
+	真 细 菌的subclass：
+		放线菌
+		芽孢桿菌屬
+		藍菌門
+		肉毒桿菌
+		衣原體屬
+		梭菌屬
+		產氣莢膜梭菌
+		球菌
+		球桿菌
+		棒狀桿菌屬
+		形成内生孢子的细菌
+		腸道菌種
+		黏細菌
+		乳桿菌屬
+		李斯特菌
+		分枝杆菌属
+		支原體屬
+		硝化细菌
+		亚硝化
+		光合细菌
+		假单胞菌
+		立克次体
+		spirilla
+		spirillum
+	属弗朗西斯的subclass：
+	淋球菌的subclass：
+	軍團菌屬的subclass：
+	nitrobacterium的subclass：
+		硝酸细菌
+		亚硝酸盐细菌
+
+疾病的subclass:
+	情感障礙的subclass：
+		躁郁症
+		抑郁
+		持续性抑郁症
+		躁狂
+		春温
+		非典型抑郁障碍
+		分離焦慮症
+		轻度狂躁
+		Trouble grave du comportement
+		Poruchy emotivity
+		Gedragsstoornis
+		抑郁症
+		Internalizing disorder
+		Externalizing disorders
+		Disforia tardiva
+		忧郁症
+	动脉粥样硬化的subclass：
+		冠状血管
+		心肌梗死
+		Coronary ischemia
+		Coronary steal
+		非穩定型心絞痛
+		冠狀動脈痙攣
+		Coronary artery anomaly
+		Ішемічна кардіоміопатія
+		Cerebral atherosclerosis
+		Obliterating endarteritis
+		Ischemic cardiomyopathy
+	遗传病的subclass：
+		血症
+		硬化性全脑炎
+		ectrodactyly
+		遗传性代谢缺陷
+		恶性高热
+		pycnodysostosis
+		遺傳性多發性外生骨疣
+		丙酮酸激酶缺乏症
+		高 磷 酸 盐 血 症
+		cleidocranial dysplasia-micrognathia-absent thumbs syndrome
+		Purine nucleoside phosphorylase deficiency
+		D-bifunctional protein deficiency
+		choreoacanthocytosis
+		De Vivo disease
+		Cystathioninuria
+		Cornelia de Lange syndrome
+		WHIM syndrome
+		姿勢性心搏過速
+		Familial encephalopathy with neuroserpin inclusion bodies
+		科芬－西里斯症候群
+		微絨毛萎縮症
+		Fukuyama congenital muscular dystrophy
+		Restrictive dermopathy
+		肢 骨 纹 状 肥 大
+	傳染性疾病的subclass：
+		传 染 性 癌 症 ，
+		性病
+		白喉
+		流行性感冒
+		麻疹
+		痘
+		猩红热
+		森咽峡炎
+		Prasophyllum spicatum
+		流行病
+	精神障礙的subclass：
+		注意力不足過動症
+		情感障礙
+		焦慮
+		解离性障碍
+		吸毒者
+		进食障碍
+		神经衰弱
+		神經衰弱
+		器质性脑综合症
+		恐慌發作
+		人格障礙
+		睡眠障碍
+		Stress-related disorders
+		雙重診斷
+		认 知 功 能 障 碍
+		衝動性控制失調
+		arithmomania
+		文化結合症候群
+		物質使用疾患
+		思维障碍
+		Organic mental disorder
+		神經發展疾患
+	侏儒症的subclass：
+		原 始 侏 儒 症
+		Parastremmatic dwarfism
+		Psychosocial short stature
+		生長激素缺乏症
+		medical aspects of dwarfisme
+		pycnodysostosis
+		Pseudoachondroplasia
+	巨人症的subclass：
+	职业病的subclass：
+		煤礦工人塵肺症
+		疲劳性骨折
+		指头脓炎
+		颌痉挛
+		膝盖囊肿
+		网球肘
+		鉛中毒
+		胫骨
+		跟腱炎
+		Chalicosis
+		pneumoconiosis due to talc
+		Lymphangiosclerosis
+		Occupational hazards of human nail dust
+		Indoor mold
+		Effective safety training
+		職業性哮喘
+		Work aversion
+		肩 袖 撕 裂
+		Radial tunnel syndrome
+		Chimney sweeps' carcinoma
+		手-手臂振動症候群
+		Tuberculosis verrucosa cutis
+	传染病的subclass：
+		性病
+		真菌病
+		呼吸道感染
+		病毒感染
+		Swine vesicular disease
+		Anthroponotic disease
+		Cryptic infection
+		猫的疾病
+		Amoebic brain abscess
+		Infectious bone disease
+		鼠咬熱
+		氣媒疾病
+		Treatment of infections after exposure to ionizing radiation
+		血源性疾病
+		寄生虫病
+		新興傳染病
+		水 传 播 的 疾 病
+		皮 肤 感 染
+		热带病
+		bacterial infectious disease
+	瘫痪的subclass：
+		两侧麻痹
+		輕偏癱
+		单瘫
+		截癱
+		triplegia
+		ascending paralysis
+		运动不能
+		語音發展遲緩
+		膀胱麻痹
+		欧勃氏麻痹
+		眼肌瘫痪
+		局部麻痹
+		四肢瘫痪
+	早年衰老症候群的subclass：
+	症候群的subclass：
+		骨软骨炎
+		嬰兒猝死症
+		腐烂
+		海湾战争综合症
+		肠易激综合征
+		努南综合征
+		乾癬性關節炎
+		大动脉炎
+		雷氏症候群
+		柔林格症候群
+		Francois dyscephalic syndrome
+		Krause-Kivlin syndrome
+		ablepharon macrostomia syndrome
+		cleidocranial dysplasia-micrognathia-absent thumbs syndrome
+		3C syndrome
+		Berdon syndrome
+		科芬－西里斯症候群
+		脊髓馬尾症候群
+		Oculodentodigital dysplasia
+		CREST综合征
+		Aicardi–Goutières syndrome
+		Superior mesenteric artery syndrome
+		Acrocallosal syndrome
+		Diffuse infiltrative lymphocytosis syndrome
+		史密斯-萊姆利-奧皮茲綜合症
+	Medullary sponge kidney的subclass：
+	Nervous system disease的subclass：
+		脑病
+	Bacillary peliosis的subclass：
+	妊娠併發症的subclass：
+		假性懷孕
+		妊娠劇吐
+		Mirror syndrome
+		Uterine inversion
+		Chorea gravidarum
+		Prenatal stress
+		Drugs in pregnancy
+		早期羊膜囊破裂
+		Diabetes and pregnancy
+		妊娠相關瘧疾
+		Intrauterine hypoxia
+		late pregnancy
+		Acute fatty liver of pregnancy
+		羊水栓塞
+		Dermatoses of pregnancy
+		Vanishing twin
+		Menace d'accouchement prématuré
+		missed abortion
+		Intercurrent disease in pregnancy
+		懷孕的症狀和不適
+		產前出血
+		秘密懷孕
+		Antenatal depression
+		Hypertensive disease of pregnancy
+	横纹肌溶解症的subclass：
+		压伤症候群
+	PANDAS的subclass：
+	Coenurosis的subclass：
+		coenurosis
+	Pseudoneurotic schizophrenia的subclass：
+	氣腹的subclass：
+	裂頭絛蟲症的subclass：
+	全 身 性 疾 病的subclass：
+		敗血症
+		Marfanoid
+		Chronische inflammatoire bindweefselziekten
+		Marfanoid–progeroid–lipodystrophy syndrome
+	Axillary nerve dysfunction的subclass：
+	延遲性射精的subclass：
+
+药物的subclass:
+	苯丙胺的subclass：
+		苯乙胺硫酸盐
+		苯丙胺
+		甲基苯丙胺
+		右旋安非他命
+		可可粉
+		西布曲明
+		碘苯托烷
+		左旋安非他命
+		疫
+	麻醉藥的subclass：
+		全身麻醉药
+		局部麻醉药
+		静脉麻醉药
+		脊髓麻醉
+	镇痛药的subclass：
+		麻醉藥物
+		鴉片類藥物
+		Analgesics, Nonnarcotic
+		对乙酰氨基酚
+		乙醯苯胺
+		非那西丁
+		阿司匹林
+		氨基比林
+		可待因
+		秋水仙素
+		右丙氧芬
+		氢吗啡酮
+		芬太尼
+		吗啡
+		喷他佐辛
+		非那吡啶
+		水杨酸钠
+	抗 血 管 生 成的subclass：
+		Givinostat
+		安维汀
+	抗炎性的subclass：
+		缓和剂
+		保泰松
+		cox-2抑制剂
+		地塞米松
+		强的松
+		羟氯喹
+		非甾体抗炎药
+		tandearil
+		泼尼松龙
+	抗心律失常药的subclass：
+		胺碘酮
+		恩卡胺
+		氟卡胺
+		美西律
+		奎尼丁
+		tonocard
+	抗生素的subclass：
+		消毒
+		红霉素
+		青霉素
+		streptogramin
+		Leprostatic agent
+		Myxopyronin
+		蒽环类药物
+		喹诺酮
+		Polyene antimycotic
+		Enzybiotics
+		利 福 布 丁
+		carbacephem
+		最後一線藥物
+		广 谱
+		carboxypenicillin
+		azalide
+		細菌素
+		Ureidopenicillin
+		利福黴素
+		Antituberkulotikum
+		antitubercular agent
+		Polypeptide antibiotic
+		Beta-lactamase inhibitor
+	抗膽鹼劑的subclass：
+		抗膽鹼藥物
+		菸鹼拮抗劑
+		beta-Dimethylaminoethyl P-bromobenzhydryl ether
+		daricon
+		苯扎托品
+		tropicamide
+		双 环 ，
+		2-
+	抗凝剂的subclass：
+		华法林
+		肝素
+		抗 血 栓
+		双香豆素
+	抗痙攣劑的subclass：
+		苯妥英
+		拉莫三嗪
+		卡马西平
+		丙戊酸
+		乙琥胺
+		加巴喷丁
+		甲巴比妥
+		乙内酰脲
+		普罗米那
+		美芬妥英
+		milontin
+		mysoline
+	抗抑郁药的subclass：
+		选择性5-羟色胺再摄取抑制剂
+		三环类抗抑郁药
+		去甲肾上腺素和特异性5-羟色胺能抗抑郁药
+		四环抗抑郁药
+		丁氨苯丙酮
+		5-羟色胺和去甲肾上腺素再摄取抑制剂
+		去甲腎上腺素再攝取抑制劑
+		瑞波西汀
+		马 来 酸 盐
+		单胺氧化酶抑制剂
+		奈法唑酮
+		nontricyclic
+	抗糖尿病药的subclass：
+		钠-葡萄糖协同转运蛋白2
+		二肽基肽酶-4抑制剂
+		格列苯脲
+		格列吡嗪
+		二甲双胍
+		磺酰脲类
+		阿卡波糖
+		岱蜜克龍
+	止吐劑的subclass：
+		乘晕宁
+		愈吐宁
+		鹽酸異丙嗪
+		普樂明
+		trimethobenzamide
+		thiethylperazine
+	抗高血压药的subclass：
+		钙通道阻滞剂
+		hydrazinophthalazine
+		血管紧张肽I转化酶抑制剂
+		螺内酯
+		甲基多巴
+		肼屈嗪
+		多沙唑嗪
+		可乐定
+		氯噻嗪
+		胍那苄
+		定脈平
+		拉贝洛尔
+		maxzide
+		minipress
+		利血平
+		tenoretic
+	抗代谢物的subclass：
+		降血脂药
+		嘌呤类似物
+		碱基类似物
+		氨甲蝶呤
+		5-氟尿嘧啶
+		巯嘌呤
+		Pyrimidine analogue
+	消毒的subclass：
+		抗生素
+		防腐剂
+		抗病毒药物
+		来苏尔
+		Copper-silver ionization
+		Amphibian antimicrobial peptides
+		洗手液
+		antisepsis
+		Galli-Valeriův roztok
+		antibacterial
+		Cidex
+		溴棕三甲铵
+		次氯酸鈉
+	退烧药的subclass：
+		对乙酰氨基酚
+	解痙藥的subclass：
+		阿托品
+	镇咳药的subclass：
+		robitussin
+		右美沙芬
+		可待因
+		cloperastine
+		dropropizine
+		prenoxdiazine
+		Dibunate
+		butamirate
+		oxeladin
+	氯苯甲嗪的subclass：
+	抗病毒药物的subclass：
+		拉米夫定
+		阿昔洛韦
+		齐多夫定
+		ddc
+		地达诺新
+		去毒乙烷吡啶
+		invirase
+		奈韋拉平
+		利托那韋
+		金刚烷胺
+		伐昔洛韦
+		泰諾福韋
+		西多福韋
+		替 比 夫 定
+		吉西他滨
+		恩替卡韦
+		boceprevir 治 疗
+		telaprevir 的
+		依法韦仑
+	Β-受體阻滯劑的subclass：
+		普萘洛尔
+		Alprenolol
+		醋丁洛尔
+		阿替洛尔
+		blocadren
+		艾司洛尔
+		卡维地洛
+		corgard
+		美托洛尔
+		visken
+
+症状的subclass:
+	厌食的subclass：
+		神经性厌食症
+	焦慮的subclass：
+		去势焦虑
+		疑病症
+		杞忧
+		恐慌
+		社交焦慮
+		Somatic anxiety
+		數學焦慮
+		考試前恐懼症
+	关节痛的subclass：
+	咳嗽的subclass：
+	昏厥的subclass：
+		血 管 迷 走 性 晕 厥
+		Breath-holding spell
+	水肿的subclass：
+		Persistent edema of rosacea
+		Heat edema
+		leg edema
+		全身水肿
+		血管性水腫
+		腦浮腫
+		球结膜水肿
+		黄斑囊样水肿
+		慢性淋巴水肿
+		视乳头水肿
+		皮硬化病
+	呼吸困难的subclass：
+		端坐呼吸
+		Platypnea
+		Bendopnea
+		呼吸困难
+		Trepopnea
+	排尿困难的subclass：
+		strangury
+	湿疹的subclass：
+		接触性皮炎
+		Nummular dermatitis
+		Ear eczema
+		Breast eczema
+		Hand eczema
+		Xerotic eczema
+		过敏性皮炎
+		苔藓样皮疹
+		皮炎
+		疱疹性湿疹
+		牛痘性湿疹
+	鼻出血的subclass：
+	瘘的subclass：
+		Biliary fistula
+		直肠阴道瘘
+		lacrimal fistula
+		Rectovestibular fistula
+		Vesicointestinal fistula
+	牙龈病的subclass：
+		森咽峡炎
+	血尿的subclass：
+		镜 下 血 尿
+		血细胞尿
+	咳血的subclass：
+	呃逆的subclass：
+	炎症的subclass：
+		腺炎
+		黏液囊炎
+		唇炎
+		膀胱炎
+		肠炎
+		肝炎
+		骨炎
+		心包炎
+		肺炎
+		口腔炎
+		指 （ 趾 ） 炎
+		chondritis
+		Systemic inflammation
+		骶 髂 关 节 炎 ，
+		骨 片
+		急性腸胃炎
+		Geographic tongue
+		Phlegmon
+		全身性發炎反應症候群
+		angiitis
+		Zapalenie nieżytowe
+		Wortelpuntontsteking
+		Oogontsteking
+		Infiammazione cronica
+		acute inflammation
+	间歇性跛行的subclass：
+		Determann-Syndrom
+	癢的subclass：
+		Hydroxyethyl starch-induced pruritus
+		Biliary pruritus
+		Scalp pruritus
+		Copra itch
+		皮肤瘙痒症
+	假性脑膜炎的subclass：
+	恶心的subclass：
+		化 疗 引 起 的 恶 心 和 呕 吐
+		晕动病
+		孕吐
+		恶心
+	眼球震颤的subclass：
+		视 动 反 射
+		Pendular nystagmus
+		生理性眼球震颤
+		后转动眼球震颤的
+		转动眼球震颤
+	疼痛的subclass：
+		关节痛
+		胃痛
+		頭痛
+		胸痛
+		肌痛
+		牙痛
+		吞咽痛
+		頸痛
+		神經性疼痛
+		Pelvic girdle pain
+		背痛
+		骨痛
+		Pain in animals
+		Wrist pain
+		直 肠 疼 痛
+		Pain in babies
+		Cancer pain
+		睾丸疼痛
+		慢性骨盆痛
+		Post herniorraphy pain syndrome
+		Symphysis pubis dysfunction
+		hyperpathia
+
